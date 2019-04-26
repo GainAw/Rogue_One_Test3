@@ -1,0 +1,10 @@
+﻿  Beasties.cpp
+  Main.cpp
+c:\users\wesley\source\repos\work_game\work_game\main.cpp(24): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  Generating Code...
+Main.obj : error LNK2005: "public: __thiscall Goblin::Goblin(void)" (??0Goblin@@QAE@XZ) already defined in Beasties.obj
+Main.obj : error LNK2005: "public: __thiscall Orc::Orc(void)" (??0Orc@@QAE@XZ) already defined in Beasties.obj
+Main.obj : error LNK2005: "public: __thiscall Rat::Rat(void)" (??0Rat@@QAE@XZ) already defined in Beasties.obj
+Main.obj : error LNK2005: "public: __thiscall Tutorial_Mob::Tutorial_Mob(void)" (??0Tutorial_Mob@@QAE@XZ) already defined in Beasties.obj
+Main.obj : error LNK2005: "public: __thiscall Zombie::Zombie(void)" (??0Zombie@@QAE@XZ) already defined in Beasties.obj
+C:\Users\Wesley\source\repos\Work_Game\Debug\Work_Game.exe : fatal error LNK1169: one or more multiply defined symbols found

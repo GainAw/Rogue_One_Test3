@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\2118479\Documents\C++ Project\Rogue_One_Test3-master\Rogue_one_test2\Work_Game\Work_Game\System_Actions.h(266): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\2118479\Documents\C++ Project\Rogue_One_Test3-master\Rogue_one_test2\Work_Game\Work_Game\System_Actions.h(342): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  Work_Game.vcxproj -> C:\Users\2118479\Documents\C++ Project\Rogue_One_Test3-master\Rogue_one_test2\Work_Game\x64\Debug\Work_Game.exe
